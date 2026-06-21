@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "NOSPEND_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "nospend_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock your full no-spend history, slip analytics, achievement badges and shareable streak cards. One-time purchase.",
+          "displayName" : "NoSpend Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "nospend_pro_unlock",
+      "referenceName" : "NoSpend Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
